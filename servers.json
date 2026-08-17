@@ -3,6 +3,6 @@
     {"id": "ee-tallinn", "flag": "🇪🇪", "country": "Эстония", "city": "Таллин", "host": "188.190.18.238"},
     {"id": "de-berlin", "flag": "🇩🇪", "country": "Германия", "city": "Берлин"},
     {"id": "nl-amsterdam", "flag": "🇳🇱", "country": "Нидерланды", "city": "Амстердам"},
-    {"id": "fi-helsinki", "flag": "🇫🇮", "country": "Финляндия", "city": "Хельсинки"},
+    {"id": "fi-helsinki", "flag": "🇫🇮", "country": "Финляндия", "city": "Хельсинки"}
   ]
 }
